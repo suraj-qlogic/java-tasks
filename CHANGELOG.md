@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.28.3](https://www.github.com/googleapis/java-tasks/compare/v1.28.2...v1.28.3) (2020-02-13)
+
+
+### Documentation
+
+* **regen:** update sample code to set total timeout, add API client header test ([#70](https://www.github.com/googleapis/java-tasks/issues/70)) ([ea4926d](https://www.github.com/googleapis/java-tasks/commit/ea4926d7c9930cc0e19d084b8645711da8987963))
+
 ### [1.28.2](https://www.github.com/googleapis/java-tasks/compare/v1.28.1...v1.28.2) (2020-02-06)
 
 
